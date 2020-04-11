@@ -1,0 +1,5 @@
+      1 AGGACCTAAGTT
+Expected	Actual	Count	Status	ExitCode	Msg
+#--	AGGACCTAAGTT	1	OK	0	ExpectedTag is not provided. SampleTagCount is lower than threshold(100). Skip sample tag check
+Expected	Actual	Count	Status	ExitCode	Msg
+#--	TTGGTTGCGATA,TGAGCGTTCCTC	1389,1481	Error	101	ExpectedTag is not provided. SampleTagCount is higher than threshold(100). Possible sample swaps Other detected tag(s): CACGATAATAGG,CACTATCTCCTG(984,912)

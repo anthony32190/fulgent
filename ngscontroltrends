@@ -1,0 +1,5 @@
+#!/bin/bash
+
+export NGS_KEY_FILE_NAME="/home/azhang/NGS/Spreadsheet-c21291862137.json"
+export NGS_SHEET_NAME="NGS Control Trends 2019"
+python3 updatecontroltrendssheet.py /home/azhang/NGS/example_1.txt "CXB Control Trends"

@@ -1,0 +1,5 @@
+#!/bin/bash
+
+export TAG_SHEET_KEY_FILE_NAME="/home/azhang/tag/Spreadsheet-c21291862137.json"
+export TAG_SHEET_NAME="Tag tracking Sheet"
+python3 updatetagmismatchsheet.py /home/azhang/tag/tag_summary_example_2.txt '1920860' CXC036 specimantype flowcellid PRD_190525_E00497_0276_AH2FLNCCX2 IDTxGenIdp4C
